@@ -1,4 +1,1 @@
- firebase => yarn add firebase
-
-
- => https://console.firebase.google.com/u/1/project/todoist-tut-e147e/settings/general/web:ZjU2NWI3MzItN2Q2ZS00M2MxLWEwOTUtZDU3ZDQzZGQ0MjNm
+yarn install moment
